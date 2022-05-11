@@ -1,0 +1,20 @@
+body {
+    background-color: blue;
+}
+div {
+    background-color: yellow;
+    font-size: 35px;
+}
+.manopavadinimas {
+    background-color: deeppink;
+}
+.vardas {
+    background-color: aquamarine;
+}
+div p {
+    font-size: 15px;
+}
+div>p {
+    font-size: 47px;
+    color: white;
+}
